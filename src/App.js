@@ -3,7 +3,6 @@ import React, { Component } from 'react'
 import Navbar from './component/Navbar.js';
 import NewsCom from './component/NewsCom';
 import Footer from './component/Footers.js';
-import Internaltext from './component/Internaltext.js';
 import { BrowserRouter as Router, Routes, Route, Switch, Link } from "react-router-dom";
 
 export class App extends Component {
